@@ -11,3 +11,6 @@ https://data.opendevelopmentmekong.net//dataset/coronavirus-covid-19-cases-in-vi
 * Are there any foreigners infected by covid-19 in Vietnam?
 * How many patients are recovered?
 * Which location is infected the most by covid-19 in Vietnam?
+
+# Dashboard
+![alt text]("dashboard.png")

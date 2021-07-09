@@ -1,5 +1,3 @@
-# vietnamese-covid-19-analysis
-
 # Analyze Covid-19 Situation in Vietnam (7/7/2021)
 This data is published in
 https://data.opendevelopmentmekong.net//dataset/coronavirus-covid-19-cases-in-vietnam

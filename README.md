@@ -13,4 +13,4 @@ https://data.opendevelopmentmekong.net//dataset/coronavirus-covid-19-cases-in-vi
 * Which location is infected the most by covid-19 in Vietnam?
 
 # Dashboard
-![alt text]("dashboard.png")
+![alt text](https://raw.githubusercontent.com/nguyenduchuy271197/vietnamese-covid-19-analysis/main/dashboard.png)
